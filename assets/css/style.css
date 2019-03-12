@@ -1,0 +1,46 @@
+.text-center {
+    display: block;
+}
+.jumbotron {
+    text-align: center;
+    padding: 0px;
+    background-color: initial;
+    color: snow;
+    font-family: waltograph;
+}
+div.jumbotron {
+    font-size: 36px
+}
+button {
+    width: 75%;
+    height: 48px;
+    font-size: x-large;
+    font-weight: bold;
+    font-size: 35px;
+}
+.container {
+    margin-top: 100px;
+}
+body {
+    background-image: url(../images/disney.jpg);
+    background-size: cover;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+img {
+    height: 200px;
+    width: 345px;
+}
+img.bg {
+    min-height: 100%
+}
+html {
+    height: 100%;
+}
+
+.clickMe, .clickMe1, .clickMe2, .clickMe3, .clickMe4, .clickMe5, .clickMe6, .clickMe7, .clickMe8, .clickMe9 {
+    background-color: snow;
+    border: black solid;
+    color: black
+}
